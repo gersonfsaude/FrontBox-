@@ -394,7 +394,7 @@ ul{
 }
 .mobile-menu .nav-item{
     display: block;
-    padding-top: 1rem 2rem;
+    padding-top: 1.2rem;
 }
 .mobile-menu .login-button{
     display: block;
@@ -406,5 +406,3 @@ ul{
 .open{
     display: block;
 }
-
-
